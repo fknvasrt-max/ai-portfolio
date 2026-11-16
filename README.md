@@ -15,3 +15,8 @@
 - [AIGC 短视频](aigc-content/video-storyboard.md)（整理中）
 
 学习进行中，内容会持续更新。
+
+## Day 1
+
+- [prompts.md](prompts.md)：提示词库，10 条美业仪器招商电话销售提示词。
+- [美业招商电话销售话术手册.md](美业招商电话销售话术手册.md)：用上述提示词试跑产出的话术手册。
